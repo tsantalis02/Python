@@ -18,7 +18,7 @@ def weather():
         yield 'Χιόνι'
         
 # testing
-if __name__ =='__ex.10.10py__':        
+if __name__ =='__main__':        
     k = int(input("Δώσε αριθμό προβλέψεων: "))
     for i in range(k):
         w = weather()
