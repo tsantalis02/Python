@@ -8,6 +8,8 @@
    (harmonic mean) δίνεται από τον τύπο: 
                                  
                               H = n / Σ(i=1,n) (1/xi)
+                              
+   όπου xi είναι οι αριθμοί της λίστας.                           
 """
 
 def armonikos_mesos(l):
