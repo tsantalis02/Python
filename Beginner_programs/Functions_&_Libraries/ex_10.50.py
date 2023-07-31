@@ -19,5 +19,5 @@ def pascalTriangle(n):
     print()
     
     
-x = int(input("Δώσε αριθμό για την εμφάνιση τόσων γραμών το τριγώνου Pascal: ")) 
+x = int(input("Δώσε αριθμό για την εμφάνιση τόσων γραμμών το τριγώνου Pascal: ")) 
 pascalTriangle(x)   
